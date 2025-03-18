@@ -2,10 +2,8 @@
  
 **Description**:
 
-The data fusion functions are mainly powered by dictionaries where the keys represent all employed soucers (m). Then, all possible combinations ranging from 2 to m are modeled along with several performance metrics are extracted.
-
-Additionally to modeling (implemented by PLS, RF or SVM), the individual modeling function independently extracts the Latent Variable Scores (-based on PLS transform).
-
+The purpose of this Python library is to facilitate and automate the building of ML models based on data fusion ( low-, mid-, and high-level). Towards this end, once the sources are input, all possible combinations between them are tested, as well as several performance metrics are extracted for easy interpretation of the results.
+Still under development...
 
 **Author**: Msc. Jose Vinicius Ribeiro
 
